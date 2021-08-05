@@ -48,6 +48,7 @@ Display dinosaurs table
 ```
 
 ## Output
+```
 
  species||height||length||legs
 
@@ -89,6 +90,7 @@ Display dinosaurs table
  
  
  (18 rows)
+ ```
 
 
 Determine characteristic height/length  (=body shape) ratio 
@@ -104,12 +106,16 @@ TABLE bodies;
 
 ##  Output
 
+```
+
 | legs ||        shape        |
  
  
 |      4 || 0.20149009443419652 |
 
 |      2 ||  0.4477662389355141 |
+
+```
 
 ## Query Plan
 
@@ -148,6 +154,8 @@ WHERE d.legs IS NOT NULL;
 ```
 
 ## Output
+
+```
 
 |     species     | height | length | legs |
 
@@ -188,4 +196,6 @@ WHERE d.legs IS NOT NULL;
 | Supersaurus     |     10 |   30.5 |    4 |
 
 (18 rows)
+
+```
 
