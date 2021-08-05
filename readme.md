@@ -49,26 +49,27 @@ Display dinosaurs table
 
 ## Output
 
- ----  species ---- height -- length -- legs --
+ ----  species||height||length||legs --
 
- Ceratosaurus    --       4      6.1     2 
- Deinonychus     --      1.5     2.7     2 
- Microvenator    --      0.8     1.2     2 
- Plateosaurus    --      2.1     7.9     2 
- Spinosaurus     --      2.4    12.2     2 
- Tyrannosaurus   --        7    15.2     2 
- Velociraptor    --      0.6     1.8     2 
- Apatosaurus     --      2.2    22.9     4 
- Brachiosaurus   --      7.6    30.5     4 
- Diplodocus      --      3.6    27.1     4 
- Supersaurus     --       10    30.5     4 
- Albertosaurus   --      4.6     9.1   NULL
- Argentinosaurus --     10.7    36.6   NULL 
- Compsognathus   --      0.6     0.9   NULL
- Gallimimus      --      2.4     5.5   NULL
- Mamenchisaurus  --      5.3      21   NULL
- Oviraptor       --      0.9     1.5   NULL
- Ultrasaurus     --      8.1    30.5   NULL
+ Ceratosaurus||4||6.1||2
+ Deinonychus||1.5||2.7||2
+ Microvenator||0.8||1.2||2
+ Plateosaurus||2.1||7.9||2
+ Spinosaurus||2.4||12.2||2
+ Tyrannosaurus||7.0||15.2||2
+ Velociraptor||0.6||1.8||2
+ Apatosaurus||2.2||22.9||4
+ Brachiosaurus||7.6||30.5||4
+ Diplodocus||3.6||27.1|4
+ Supersaurus||10.0||30.5||4
+ Albertosaurus||4.6||9.1||NULL
+ Argentinosaurus||10.7||36.6||NULL
+ Compsognathus||0.6||0.9||NULL
+ Gallimimus||2.4||5.5||NULL
+ Mamenchisaurus||5.3||21.0||NULL
+ Oviraptor||0.9||1.5||NULL
+ Ultrasaurus||8.1||30.5||NULL
+ 
  
  (18 rows)
 
