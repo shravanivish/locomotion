@@ -49,7 +49,7 @@ Display dinosaurs table
 
 ## Output
 
- ----  species||height||length||legs --
+ species||height||length||legs
 
  Ceratosaurus||4||6.1||2
  
